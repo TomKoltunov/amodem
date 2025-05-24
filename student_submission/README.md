@@ -18,3 +18,4 @@
 ## Notes
 
 No hardware was used. All audio processing was done using my computer’s speaker and software only.
+I used in this assignment the assistance of chatGPT.
